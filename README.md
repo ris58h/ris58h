@@ -14,3 +14,4 @@
 - [ExKeyMo](https://github.com/ris58h/exkeymo-web) - Android external keyboard remapping without root. 
 - [Validate keymaps tool](https://github.com/ris58h/validatekeymaps) -  Android's Keymap Validation Tool.
 - [Finder Widget](https://github.com/ris58h/galaxyfinder-widget) - Android homescreen widget to open Samsung Finder.
+- [Custom Keyboard Layout](https://github.com/ris58h/custom-keyboard-layout) - skeleton project for Android app that provides custom keyboard layouts.
