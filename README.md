@@ -12,6 +12,6 @@
 - [Custom Keyboard Layout](https://github.com/ris58h/custom-keyboard-layout) - skeleton project for Android app that provides custom keyboard layouts.
 
 ###### Intellij IDEA plugins
-- [WebCalm](https://github.com/ris58h/WebCalm) - adds basic support for the JavaScript language: highlighting, navigation, completion, etc.
+- [WebCalm](https://github.com/ris58h/WebCalm) - adds support for JavaScript and CSS.
 - [Laconic POM](https://github.com/ris58h/laconic-pom) - folds Maven boilerplate in pom.xml files.
 - [Android Keymap Files Support](https://github.com/ris58h/android-keymaps-intellij) - Android keymap files support: key layout (.kl), key character map (.kcm), input device configuration (.idc).
