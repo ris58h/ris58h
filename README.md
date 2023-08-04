@@ -1,17 +1,9 @@
-###### MacOS
-- [Touch-Tab](https://github.com/ris58h/Touch-Tab) - switch apps with trackpad on macOS. 
+<pre>
+<b>site_url:</b> <a href="https://ris58h.github.io/">https://ris58h.github.io/</a>
+<b>blog_url:</b> <a href="https://ris58h.github.io/blog/">https://ris58h.github.io/blog/</a>
+<b>projects_url:</b> <a href="https://ris58h.github.io/projects/">https://ris58h.github.io/projects/</a>
 
-###### Android
-- [ExKeyMo](https://github.com/ris58h/exkeymo-web) - Android external keyboard remapping without root. 
-- [Validate keymaps tool](https://github.com/ris58h/validatekeymaps) -  Android's Keymap Validation Tool.
-- [Finder Widget](https://github.com/ris58h/galaxyfinder-widget) - Android homescreen widget to open Samsung Finder.
-- [Custom Keyboard Layout](https://github.com/ris58h/custom-keyboard-layout) - skeleton project for Android app that provides custom keyboard layouts.
-
-###### Intellij IDEA plugins
-- [WebCalm](https://github.com/ris58h/WebCalm) - adds support for JavaScript and CSS.
-- [Laconic POM](https://github.com/ris58h/laconic-pom) - folds Maven boilerplate in pom.xml files.
-- [Android Keymap Files Support](https://github.com/ris58h/android-keymaps-intellij) - Android keymap files support: key layout (.kl), key character map (.kcm), input device configuration (.idc).
-
-###### Web Extensions
-- [YouTube Chapters In Player](https://github.com/ris58h/youtube-chapters-in-player) - shows YouTube chapters right in the player.
-- [YouTube Timestamps](https://github.com/ris58h/youtube-timestamps) - shows timestamps from YouTube comments on timeline.
+<i># Contacts</i>
+<b>email:</b> <a href="mailto:ris58h@gmail.com">ris58h@gmail.com</a>
+<b>linkedin_url:</b> <a href="https://www.linkedin.com/in/ilya-rodionov-0a9725215">https://www.linkedin.com/in/ilya-rodionov-0a9725215</a>
+</pre>
