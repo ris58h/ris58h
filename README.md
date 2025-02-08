@@ -10,7 +10,7 @@
 
 <i># Social media</i>  
 <b>github:</b> <a href="https://github.com/ris58h">https://github.com/ris58h</a>
-<b>linkedin:</b> <a href="https://www.linkedin.com/in/ris58h">https://www.linkedin.com/in/ilya-rodionov</a>
+<b>linkedin:</b> <a href="https://www.linkedin.com/in/ris58h">https://www.linkedin.com/in/ris58h</a>
 
 <i># Support</i>
 <b>buymeacoffee:</b> <a href="https://www.buymeacoffee.com/ris58h">https://www.buymeacoffee.com/ris58h</a>
